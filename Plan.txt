@@ -1,0 +1,28 @@
+Preparing for the Project
+Steps:
+1) Learn more about React - specifically CRUD Functionality 
+2) Learn more About about databases and how to store this Project
+3) Learn more about Design
+4) Create a component tree
+5)Create a ReadME
+6)Start coding out the Project
+  
+
+
+
+Questions to Answer / Things to Research
+1)How to take in user data -> store in database-> give back the data to the user
+2) How do I want to authenticate a user? How do I want them to be able to create an account, log-in etc?
+3)What type of database do I want to use?
+4)What type of backend do I want to use and why?
+
+
+Design:
+1) How do I want the different pages to look?
+2) What specific questions will I ask, and how will I take in the answers? (checkboxes? text? etc.)
+
+
+Plan for Friday:
+1) Watch more React Lesson
+2) Watch Design Course
+3) Draw out design for MVP
