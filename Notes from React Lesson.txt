@@ -1,2 +1,3 @@
 learning mroe about conditional rendering in react
 learning about adding spinners while code is waiting on user input
+Learnign about default props
