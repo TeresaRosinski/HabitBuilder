@@ -1,0 +1,36 @@
+Name of Student: Teresa Rosinski
+Name of Project: Habit Builder
+Project's Purpose or Goal: The goal of this project is to help a user analyze their current habits and build habit systems that are beneficial to them. It’s based off of two books - The Power of Habit by Charles Duhigg and Atomic Habits by James Clear
+List the absolute minimum features the project requires to meet this purpose or goal:
+A user is able to create an account and log-in with their own credentials
+A user can create a Habit Score Card (Taken from Atomic Habits)
+A user can log all of their current habits
+A user can identify each habit as being beneficial, neutral or negative
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+I am not completely sure an open to suggestions, but I would like to:
+Use Javascript/React for the front end
+I’m thinking that using C# / ASP.NET / Identity /MySQL for the backend and storing data
+UI-Semantics
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+Phase 2:
+A user can ‘Build’ and analyze new habits: 
+Data is taken in about the desire habit:
+A user can specify a habit they want to build and are guided through specific questions as to why they want to create that habit, what cues they will use to trigger the habit, how they can make the habit easier and more desirable etc. 
+A user selects how long they want to experiment with the habit for (ex: 3 months)
+A user is able to check-in each day to log if they completed the habit and how it went. 
+Each week the user can analyze how the new habit has benefitted them as well as any possible negative side-effects
+Project will be hosted 
+Beautiful UI
+Phase 3: 
+Habits Stored in Practice Board / Habit Tree
+After a user has practiced a habit for the time they pre-selected, the habit is added to a Habits in Practice Board - this way a user has a visual representation of the habits they’ve created in their lives
+A user can create a Desired Habits Board:
+A user can log the habits they want to create with details - why they want to create it, what change they’re looking to make etc.
+The app will remind users to check-in each day
+The app can let users create and join public accountability groups that have messaging boards
+The app can let users create and join private accountability groups that have messaging boards
+The app will periodically prompt users to check-in with themselves about habits on their Practice Board - are they still keeping up with the habit? 
+ 
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+ 
+Is there anything else you'd like your instructor to know?
