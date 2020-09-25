@@ -65,3 +65,16 @@ Font.com
 Font Squirrel - free 
 Sky Fonts - macapp
 
+
+UI Design 
+Imagine your app as a journey
+The app designer is your guide that guides the users attention
+Attention is always drawn to size first
+Great design: gives subconcious clues about how the user should interact with the application
+Material Design: google, things look like they're appearing on paper or other materials - give a hint of interactivity
+
+Alignment = KEY
+single line touching all edges
+minimize the number of alignment lines
+edge alignement
+center alignment
