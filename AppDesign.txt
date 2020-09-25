@@ -1,0 +1,67 @@
+https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/learn/lecture/6900306#overview
+
+Color Theory: 
+Red: love, energy, intensity, excitedment
+yellow: joy, intensity, attract attention -- >can cause attention fatigue if over-used - not a good background
+green: safety, fresh
+blue: stability, trust, serenity - trustworthy
+purple: royalty, feminity, 
+
+Color Palettes:
+analgous - nex tot eachother on the colorwheer - pleasant to look at 
+
+complementary: opposite on the color wheel - not great for main interface
+
+3 -color palette - split colout - good for icons
+
+triadic colours: very 90s feel
+monochromatic: add in white or black - more contemporary
+
+Resource: ColorHunt.com
+FlatUIColors.com - great for ios platform
+MaterialPalette.com
+Colorzilla - can grab colors from website
+
+Typography: 
+Serif: 
+- little feet
+-Conservative 
+-Serious
+4 - families
+1)Old Style 
+2)Transitional (Times new Roman)
+3)Modern (Didot)
+4)Slab-Serif (More thick, For Newspaper printing)
+
+
+Sans-Serif: 
+-no feet
+1) Grotesque (News Gothic) - less letter spacing
+2) Neo-Grotesque (Helvetica)
+3)Humanist (Gill Sans)
+4)GEometric (Futura)
+
+HUmanist is easier to read
+Variable proportions add to readability
+Combining:
+One for heading
+One fo Body
+
+Rules for Combining:
+Serif and Sans Serif work well Together
+- Heading: Serif, body: Sans-Serif
+--> or opposite
+Don't mix Sans with sans or serif with serif
+3 or more fonts is not good
+- think about the mood of the type face - don't mix moods
+- era of type faces should be similar
+
+Keep SImilar: Mood and Time era
+Contrast: Seif-ness + Weights
+
+Tools: 
+WhatFont
+Font.com
+Font Squirrel - free 
+Sky Fonts - macapp
+
