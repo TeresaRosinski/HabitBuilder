@@ -1,0 +1,13 @@
+Fonts: 
+Main: 
+
+Fira Sans (Humanist font?)
+https://www.fontsquirrel.com/fonts/fira-sans?q%5Bterm%5D=humanist&q%5Bsearch_check%5D=Y
+
+Special: 
+1) Abhaya Libre
+2) Bodoni 
+
+Color-Scheme:
+
+Page-by-page content: 
